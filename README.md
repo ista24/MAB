@@ -1,8 +1,3 @@
-# MAB
-
-Certainly! Below is a suggested content for a README file that explains the datasets and gives credit to the original sources without using the exact wording from the previous explanations, thus avoiding plagiarism concerns.
-
----
 
 # Datasets Description for Multi-Armed Bandit Simulations
 
