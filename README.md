@@ -17,11 +17,11 @@ Our simulation leverages this dataset to replicate a scenario where decisions mu
 
 We extend our heartfelt gratitude to the creators and maintainers of the datasets used in this research. Their meticulous work in assembling and sharing their data has greatly facilitated our exploration into decision-making algorithms.
 
-For the Ad Dataset, our thanks go to 
- GuilongAaron/beta_distribution_adprediction(https://github.com/GuilongAaron/beta_distribution_adprediction)). Their dataset has provided us with invaluable insights into user engagement and ad effectiveness.
+For the Ad Dataset, our thanks go to GuilongAaron/beta_distribution_adprediction
+(https://github.com/GuilongAaron/beta_distribution_adprediction). Their dataset has provided us with invaluable insights into user engagement and ad effectiveness.
 
 The Election Campaign Dataset was sourced from salimwid/ Multiarmed_Bandits_Algorithms_Political_Campaign
-(https://github.com/salimwid/Multiarmed_Bandits_Algorithms_Political_Campaign)). This dataset has been fundamental in creating a realistic and challenging environment that simulates the unpredictability of election campaign strategies.
+(https://github.com/salimwid/Multiarmed_Bandits_Algorithms_Political_Campaign). This dataset has been fundamental in creating a realistic and challenging environment that simulates the unpredictability of election campaign strategies.
 
 ---
 
